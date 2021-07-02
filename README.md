@@ -57,7 +57,7 @@ After upsampling, we increased the dataset sizes from 165 images to 1208 images.
 ![image](https://user-images.githubusercontent.com/80243823/121810826-decaf080-cc94-11eb-8a6c-a55f3fc2ce23.png)
 ![image](https://user-images.githubusercontent.com/80243823/121811097-d3c49000-cc95-11eb-9625-00ddd6fefe16.png)
 
-Although Model 2 has lower mean average precision, we further tested and anaylzed their performance based on different scenarios.
+Although Model 2 has lower mean average precision(mAP), we further tested and anaylzed their performance based on different scenarios.
 There are 2 areas which require attention, the accuracy of card location, and the accuracy of card identification.
 
 ![image](https://user-images.githubusercontent.com/80243823/121811136-fe164d80-cc95-11eb-8016-801187a0ba7c.png)
