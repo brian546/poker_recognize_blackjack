@@ -1,6 +1,6 @@
 # Poker Recognization and Black Jack Stragegy
 
-This is a app that can recognize dealer's and player's poker cards in image uploaded using opbection detection algorithm Yolov4 and provide corresponding strategy for the player to win the Blackjack game. 
+This is an app that can recognize dealer's and player's poker cards in image uploaded using opbection detection algorithm Yolov4 and provide corresponding strategy for the player to win the Blackjack game. 
 
 ## Run the App
 
