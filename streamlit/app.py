@@ -6,7 +6,7 @@ import streamlit as st
 import os
 
 # %%
-st.title("Poker Card Screener")
+st.title("Poker Card Screener version 2")
 upload_image = st.sidebar.file_uploader("Upload an image here:")
 
 threshold = st.sidebar.slider("Confidence Threshold:", min_value=0.0, max_value=1.0, value=0.5, step=0.1)
