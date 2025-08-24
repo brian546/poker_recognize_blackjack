@@ -1,10 +1,10 @@
 # Poker Recognization and Black Jack Strategy
 
-This is an app that can recognize dealer's and player's poker cards in image uploaded using object detection algorithm Yolov4 and provide corresponding strategy for the player to win the Blackjack game. 
+This app uses the YOLOv4 object detection algorithm to identify poker cards of both the dealer and player from uploaded images and provides strategic recommendations to help the player win at Blackjack.
 
 ## Run the App
 
-```
+```bash
 cd ./streamlit
 streamlit run app.py
 ```
